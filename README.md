@@ -1,19 +1,18 @@
-# 🎈 Blank app template
+# MET Museum Art Explorer
 
-A simple Streamlit app template for you to modify!
+A Streamlit web application for exploring artworks from The Metropolitan Museum of Art using their public API.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Features
 
-### How to run it on your own machine
+- 🔍 Search artworks by keywords
+- 🖼️ View high-quality images
+- 📋 Display detailed artwork information
+- 🎯 Quick search with preset terms
+- ⚡ Cached API responses for performance
 
-1. Install the requirements
+## Installation
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/met-museum-explorer.git
+cd met-museum-explorer
